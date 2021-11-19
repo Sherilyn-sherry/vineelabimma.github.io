@@ -8,7 +8,7 @@ categories:
 
 ##Leave Application To Manager
 
-Subject: Requesting leave for two days from 19-11-2021 to 20-11-2021
+Subject: Requesting leave for two days from 19-11-2021 to 20-11-2021.
 
 Respected Tony,
 
