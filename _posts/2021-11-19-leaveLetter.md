@@ -16,7 +16,8 @@ I am Vineela working as a Junior Web Developer in your reputed company. I like t
 
 Thanking You.
 
-Yours Faithfully,
+Yours Faithfully, 
+
 Vineela Bimma.
 
 
