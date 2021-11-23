@@ -31,6 +31,7 @@ Noise Pollution:
 Noise Pollution is also known as Sound Pollution. It is an invisible danger. It is generated through household sounds, Traffic, fireworks, animal sounds, loudspeakers, generators, construction, industries, explosions, gunfire, thunderstorms, etc.  Disturbance of sleep, hypertension, aggressive behavior, or stress can be associated with excessive sound levels. Besides, the high-intensity sound can cause an increase in heartbeat rate and blood pressure as well.
 
 How to Minimize Environmental Pollution?
+
 To minimize this issue, some preventive measures need to be taken.
 Principle of 3R’s: To save the environment, use the principle of 3 R’s; Reuse, Reduce and Recycle. 
 Reuse: Reuse products again and again. Instead of throwing away things after one use, find a way to use them again. Reduce the generation of waste products. 
@@ -41,4 +42,5 @@ To control land pollution, we must stop the usage of plastic. Sewage should be t
 Several measures can be adopted to control water pollution. Some of them are water consumption and usage that can be minimized by altering the techniques involved. Water should be reused with treatment.
 
 Conclusion
+
 It is the responsibility of every individual to save our planet from these environmental contamination agents. If preventive measures are not taken then our future generation will have to face major problems. The government is also taking steps to create public awareness. Every individual should be involved in helping to reduce and control pollution. "Atleast Plant Trees on your Birthdays as  gift to earth".
